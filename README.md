@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to the Focus Bear Intern Onboarding Repository! 🚀
 
 ## 🌟 About Your Learning Journey
@@ -23,3 +24,7 @@ The rules:
 ## Step 3: Submit your work for review
 
 When you have completed all the issues, you can let your team leader know so they can review and give you feedback. If it's all looking good, you'll move to the next stage: helping develop the Focus Bear app.
+=======
+# ppraeeprae-intern-repo
+Repository for Focus Bear internship tasks and skill demonstrations.
+>>>>>>> 4a0ce4687621a5ee0f2ba647c4fe5d694ff94e28
